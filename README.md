@@ -1,7 +1,10 @@
-#  Regression-based doubly robust estimation of optimal dynamic treatment regime for binary outcomes using collapsible effect measures #
+This repository provides a reproduction program for the simulations presented in:
+
+"Regression-based doubly robust estimation of optimal dynamic treatment regime for binary outcomes using collapsible effect measures"
 
 by Koshiro Arai and Tomohiro Shinozaki
 
+History:
 ⦁	20260124:　First Upload
 
 ---
