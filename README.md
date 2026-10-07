@@ -7,6 +7,7 @@ by Koshiro Arai and Tomohiro Shinozaki
 History:
 
 ⦁	20260124:　First Upload
+⦁	20261007:　Second Upload
 
 ---
 [0.Preparation]: Library and Estimation method
@@ -30,16 +31,26 @@ History:
 
 **"1.2_VsimFunc_logi.R"**
 
-**"1.3_Run_Sim_logi.R"**　-> Table 2, Figure 2; Table S1, Figure S1
+**"1.3_Run_Sim_logi.R"**　-> Table 2, Figure 2; Table S1, Figure S1, Figure S4
 
 ---
 [Simulation 2]
 
-**"2.1_VsimFunc_opt.R"**
+**"2.1_Datagen_opt_general.R"**
 
 **"2.2_VsimFunc_opt.R"**
 
-**"2.3_Run_Sim_opt.R"**-> Table 3, Figure 3,4; Table S1, Figure S1, Table S2, Table S3, Figure S2-S4
+**"2.3_Run_Sim_opt.R"**-> Table 3, Figure 3,4; Table S1, Figure S1, Table S2, Table S3, Figure S2-S3, S5-S6
+
+[Additional Simulation in Section S2.4]
+
+**"3.1_Datagen_DR.R"**
+
+**"3.2_Gmod_DR.R"**
+
+**"3.3_GSim_DR.R"**
+
+**"3.3_GSim_DR.R"**-> Table S6
 
 ---
 [Seed_summary]
